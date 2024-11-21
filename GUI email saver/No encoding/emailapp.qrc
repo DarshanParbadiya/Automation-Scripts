@@ -1,0 +1,9 @@
+<RCC>
+  <qresource>
+    <file>icons/searching.png</file>
+    <file>icons/path.png</file>
+    <file>icons/true.png</file>
+    <file>icons/date.png</file>
+    <file>icons/email.png</file>
+  </qresource>
+</RCC>
